@@ -1,4 +1,4 @@
-# Employee Churn Prediction – Pilot Program
+# Employee Churn Prediction
 
 This project focuses on building a **churn prediction model** to identify employees at risk of leaving the organization. By leveraging **Python (Jupyter Notebook)** for data analysis and modeling, along with **Google Looker Studio** for visualization, the project provides actionable insights to improve **employee retention strategies**.
 

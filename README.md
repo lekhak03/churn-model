@@ -78,7 +78,7 @@ Visualization dashboards (via Looker Studio) break down **where churn is most pr
 * Required libraries:
 
   ```bash
-  pip install pandas numpy scikit-learn matplotlib seaborn
+  pip install -r requirements.txt
   ```
 
 ### Running the Notebook

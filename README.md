@@ -2,6 +2,8 @@
 
 This project focuses on building a **churn prediction model** to identify employees at risk of leaving the organization. By leveraging **Python (Jupyter Notebook)** for data analysis and modeling, along with **Google Looker Studio** for visualization, the project provides actionable insights to improve **employee retention strategies**.
 
+👉 **Explore the Interactive Dashboard here:**
+[Employee Churn Dashboard – Looker Studio](https://lookerstudio.google.com/reporting/ccd1a1d0-0082-4ebe-b0e5-f26e3d55207e)
 ---
 
 ## 📌 Project Overview
@@ -54,9 +56,6 @@ Visualization dashboards (via Looker Studio) break down **where churn is most pr
 * Sales
 * Product Management
 * Marketing, HR, IT, Accounting, R\&D
-
-👉 **Explore the Interactive Dashboard here:**
-[Employee Churn Dashboard – Looker Studio](https://lookerstudio.google.com/reporting/ccd1a1d0-0082-4ebe-b0e5-f26e3d55207e)
 
 ---
 
